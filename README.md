@@ -8,7 +8,8 @@ second monitor, or anywhere you like, at any size.
 - Works with any monitor setup, windowed or full screen
 - Fully detailed maps (forests, towns, roads) if you also use the [Leatrix Maps](https://www.curseforge.com/wow/addons/leatrix-maps) addon
 
-<!-- screenshot goes here -->
+![LiveMap on a second monitor next to the game](screenshots/livemap.png)
+*LiveMap (left, on a second monitor) following the player in Stonetalon Mountains.*
 
 ## How it works
 
