@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: LiveMap
+## Notes: Shows your live map position in the WoW LiveMap window (e.g. on a second monitor)
+## Version: 1.0.0
+## SavedVariables: LiveMapExport, LiveMapDB
+
+LiveMap.lua
